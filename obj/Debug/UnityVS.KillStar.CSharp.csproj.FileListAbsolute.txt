@@ -1,0 +1,9 @@
+C:\Users\jopn\Documents\KillStar\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\jopn\Documents\KillStar\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\jopn\Documents\KillStar\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\jopn\Documents\KillStar\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\jopn\Documents\KillStar\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\jopn\Documents\KillStar\obj\Debug\UnityVS.KillStar.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\jopn\Documents\KillStar\obj\Debug\Assembly-CSharp.dll
+C:\Users\jopn\Documents\KillStar\obj\Debug\Assembly-CSharp.pdb
+C:\Users\jopn\Documents\KillStar\Temp\UnityVS_bin\Debug\UnityEngine.xml

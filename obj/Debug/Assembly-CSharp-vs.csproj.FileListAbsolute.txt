@@ -1,0 +1,11 @@
+C:\Users\jopn\Documents\KillStar\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\jopn\Documents\KillStar\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\jopn\Documents\KillStar\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\jopn\Documents\KillStar\Temp\bin\Debug\UnityEditor.dll
+C:\Users\jopn\Documents\KillStar\Temp\bin\Debug\UnityEngine.dll
+C:\Users\jopn\Documents\KillStar\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\jopn\Documents\KillStar\Temp\bin\Debug\nunit.framework.dll
+C:\Users\jopn\Documents\KillStar\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\jopn\Documents\KillStar\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\jopn\Documents\KillStar\obj\Debug\Assembly-CSharp.dll
+C:\Users\jopn\Documents\KillStar\obj\Debug\Assembly-CSharp.pdb
